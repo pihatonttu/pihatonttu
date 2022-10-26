@@ -1,7 +1,8 @@
 ### Welcome, I'm Samu - aka pihatonttu
 
 ## About me
-- 👨‍🎓 I'm a Information Technology student
+- 👨‍🎓 I'm a Information Technology engineer
+- 👨‍💻 I work as sofware engineer
 - 🏠 I'm from Finland
 - 🎮 I love gaming and game development
 
